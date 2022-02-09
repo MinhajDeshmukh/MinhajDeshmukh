@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MinhajDeshmukh
 - 👀 I’m interested in Big Data
-- 📫 How to reach me ...
+- 📫 How to reach me pin me
 
 <!---
 MinhajDeshmukh/MinhajDeshmukh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
